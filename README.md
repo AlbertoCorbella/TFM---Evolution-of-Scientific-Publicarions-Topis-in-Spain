@@ -11,7 +11,6 @@ We begin with no dataset for this. For this study I have used the API of Dimensi
 
 Dimensions API provides and intuitive language, named DSL ( Dimensions Query Language )  to interact with their database. From here we will take the paper ids and the year of publication, however the full abstract text is not provided. Using the paper id we will create a web scraper to iterate over this Ids in their API UI. This way we will create our dataset, containing the Publication Id, the ful Publication Abstract and the year of publication of the paper.
 
-En mi TFM utilizaré diferentes algoritmos de regresión de Machine Learning para poder estimar la puntuación total de un jugador del FIFA19 a partir de otras habilidades de cada jugador. Mi objetivo es obtener el algoritmo que me dé el mejor RMSE y MAE.
 
 ### Topic Modelling
 
